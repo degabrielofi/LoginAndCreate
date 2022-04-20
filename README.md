@@ -1,7 +1,7 @@
   <br>
   <p align="center">
   <img alt"Video" src="./GitHub/Página Final.gif" width="80%">
-  </p>s
+  </p>
   <br>
   
   ## :clipboard: Sobre o Projeto
