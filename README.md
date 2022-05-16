@@ -1,4 +1,4 @@
- s <br>
+ <br>
   <p align="center">
   <img alt"Video" src="./GitHub/Página Final.gif" width="80%">
   </p>
