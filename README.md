@@ -20,5 +20,5 @@
 
 ## 🕵️‍♂️ Para clonar o repositório utilize:
 ```bash
- git clone hhttps://github.com/degabrielofi/LoginAndCreate
+ git clone https://github.com/degabrielofi/LoginAndCreate
 ```
